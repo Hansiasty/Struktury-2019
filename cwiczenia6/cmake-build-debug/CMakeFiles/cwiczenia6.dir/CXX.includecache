@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bartek/CLionProjects/cwiczenia6/kolejka_procesow.cpp
+kolejka_procesow.h
+/Users/bartek/CLionProjects/cwiczenia6/kolejka_procesow.h
+iostream
+-
+
+/Users/bartek/CLionProjects/cwiczenia6/kolejka_procesow.h
+proces.h
+/Users/bartek/CLionProjects/cwiczenia6/proces.h
+
+/Users/bartek/CLionProjects/cwiczenia6/main.cpp
+iostream
+-
+proces.h
+/Users/bartek/CLionProjects/cwiczenia6/proces.h
+kolejka_procesow.h
+/Users/bartek/CLionProjects/cwiczenia6/kolejka_procesow.h
+
+/Users/bartek/CLionProjects/cwiczenia6/proces.cpp
+proces.h
+/Users/bartek/CLionProjects/cwiczenia6/proces.h
+iostream
+-
+
+/Users/bartek/CLionProjects/cwiczenia6/proces.h
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bartek/CLionProjects/cwiczenia4/kolejka.cpp
+iostream
+-
+kolejka.h
+/Users/bartek/CLionProjects/cwiczenia4/kolejka.h
+
+/Users/bartek/CLionProjects/cwiczenia4/kolejka.h
+
+/Users/bartek/CLionProjects/cwiczenia4/main.cpp
+iostream
+-
+kolejka.h
+/Users/bartek/CLionProjects/cwiczenia4/kolejka.h
+
