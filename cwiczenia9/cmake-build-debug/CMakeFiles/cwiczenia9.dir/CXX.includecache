@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bartek/CLionProjects/cwiczenia9/sznur.cpp
+sznur.h
+/Users/bartek/CLionProjects/cwiczenia9/sznur.h
+iostream
+-
+
+/Users/bartek/CLionProjects/cwiczenia9/sznur.h
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cwiczenia6.dir/main.cpp.o CMakeFiles/cwiczenia6.dir/proces.cpp.o CMakeFiles/cwiczenia6.dir/kolejka_procesow.cpp.o  -o cwiczenia6 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bartek/CLionProjects/cwiczenia7/Lista.cpp
+iostream
+-
+Lista.h
+/Users/bartek/CLionProjects/cwiczenia7/Lista.h
+
+/Users/bartek/CLionProjects/cwiczenia7/Lista.h
+

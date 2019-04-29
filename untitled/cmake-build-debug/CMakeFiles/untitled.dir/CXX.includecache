@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bartek/CLionProjects/untitled/main.cpp
+iostream
+-
+stos.h
+/Users/bartek/CLionProjects/untitled/stos.h
+
+/Users/bartek/CLionProjects/untitled/stos.h
+stdio.h
+-
+stdlib.h
+-
+limits.h
+-
+
